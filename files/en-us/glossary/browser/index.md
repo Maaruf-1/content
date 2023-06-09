@@ -1,4 +1,5 @@
 ---
+<!DOCTYPE html>
 title: Browser
 slug: Glossary/Browser
 page-type: glossary-definition
